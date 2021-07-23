@@ -1,0 +1,7 @@
+true:true:2020-07-27:2020-10-17:avion;false/Beograd,59,Beograd/Adresa4,66,Madrid/biznis:hotel;40.0,5,nocenje,4,Adresa4,66,Madrid
+true:true:2020-08-11:2020-08-18:avion;true/Beograd,59,Beograd/Adresa3,13,Amsterdam/ekonomska:hotel;30.0,1,allInclusive,5,Sarajevska,44,Beograd
+true:true:2020-08-20:2020-08-30:voz;true/Adresa3,13,Amsterdam/Zeleznicka,1,Beograd/prviRazred:hotel;30.0,1,allInclusive,5,Sarajevska,44,Beograd
+false:true:2020-08-20:2020-08-30:voz;false/Adresa3,13,Amsterdam/Adresa4,66,Madrid/drugiRazred:hotel;30.0,2,nocenje,4,Adresa4,66,Madrid
+true:true:2020-08-10:2020-08-20:voz;false/Adresa3,13,Amsterdam/Adresa4,66,Madrid/drugiRazred:hotel;40.0,5,nocenje,4,Adresa4,66,Madrid
+true:false:2020-09-11:2020-10-11:avion;true/Pasiceva,33,Loznica/Sarajevska,44,Beograd/biznis:hotel;22.0,1,polupansion,4,Pasiceva,33,Loznica
+true:false:2020-07-10:2020-07-20:avion;true/Beograd,59,Beograd/Adresa3,13,Amsterdam/ekonomska:hotel;34.0,3,nocenje,4,Kumodraska,398,Beograd
